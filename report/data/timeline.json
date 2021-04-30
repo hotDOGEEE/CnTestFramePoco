@@ -1,0 +1,86 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-FMGGIRV",
+    "children" : [ {
+      "name" : "5988-MainThread",
+      "children" : [ {
+        "name" : "test_home[case_data0]",
+        "uid" : "6d6a34fcbf59c332",
+        "parentUid" : "6cff9153e1e02e4c1c51bc6da9a77503",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606291653224,
+          "stop" : 1606291653224,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'Home_exp1', 'description': '开始游戏超时确认场景检测', 'event_list': ['点击\"大厅\"', '点击\"开始下棋\"', '等待出现\"进入游戏\"', '等待消失\"进入游戏\"'], 'expect': '不显示\"进入游戏\"'}" ]
+      }, {
+        "name" : "test_home[case_data0]",
+        "uid" : "148675a4ca3fb4cf",
+        "parentUid" : "6cff9153e1e02e4c1c51bc6da9a77503",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606291652999,
+          "stop" : 1606291652999,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'Home_exp1', 'description': '开始游戏超时确认场景检测', 'event_list': ['点击\"大厅\"', '点击\"开始下棋\"', '等待出现\"进入游戏\"', '等待消失\"进入游戏\"'], 'expect': '不显示\"进入游戏\"'}" ]
+      } ],
+      "uid" : "6cff9153e1e02e4c1c51bc6da9a77503"
+    }, {
+      "name" : "15212-MainThread",
+      "children" : [ {
+        "name" : "test_home[case_data0]",
+        "uid" : "577eecd3afef284e",
+        "parentUid" : "e603fe221f466af8f20eab86ee9dbced",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606294826790,
+          "stop" : 1606294826790,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'Home_exp1', 'description': '开始游戏超时确认场景检测', 'event_list': ['点击\"大厅\"', '点击\"开始下棋\"', '等待出现\"进入游戏\"', '等待消失\"进入游戏\"'], 'expect': '不显示\"进入游戏\"'}" ]
+      }, {
+        "name" : "test_home[case_data0]",
+        "uid" : "be11cc6f56ed4a24",
+        "parentUid" : "e603fe221f466af8f20eab86ee9dbced",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606294826982,
+          "stop" : 1606294826983,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'Home_exp1', 'description': '开始游戏超时确认场景检测', 'event_list': ['点击\"大厅\"', '点击\"开始下棋\"', '等待出现\"进入游戏\"', '等待消失\"进入游戏\"'], 'expect': '不显示\"进入游戏\"'}" ]
+      } ],
+      "uid" : "e603fe221f466af8f20eab86ee9dbced"
+    }, {
+      "name" : "5800-MainThread",
+      "children" : [ {
+        "name" : "Home_exp1",
+        "uid" : "c5c50da0db8dabe8",
+        "parentUid" : "2d6936f611d94c1989101ecdcef72143",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606294684527,
+          "stop" : 1606294709360,
+          "duration" : 24833
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'Home_exp1', 'description': '开始游戏超时确认场景检测', 'event_list': ['点击\"大厅\"', '点击\"开始下棋\"', '等待出现\"进入游戏\"', '等待消失\"进入游戏\"'], 'expect': '不显示\"进入游戏\"'}" ]
+      } ],
+      "uid" : "2d6936f611d94c1989101ecdcef72143"
+    } ],
+    "uid" : "75c08b0f7945efd80ede445b9196daf6"
+  } ]
+}

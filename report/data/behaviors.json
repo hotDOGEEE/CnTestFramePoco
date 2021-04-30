@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Home",
+    "children" : [ {
+      "name" : "test_home[case_data0]",
+      "uid" : "be11cc6f56ed4a24",
+      "parentUid" : "70cf6719a6b21834f4828bfc81908b89",
+      "status" : "broken",
+      "time" : {
+        "start" : 1606294826982,
+        "stop" : 1606294826983,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "{'id': 'Home_exp1', 'description': '开始游戏超时确认场景检测', 'event_list': ['点击\"大厅\"', '点击\"开始下棋\"', '等待出现\"进入游戏\"', '等待消失\"进入游戏\"'], 'expect': '不显示\"进入游戏\"'}" ]
+    } ],
+    "uid" : "70cf6719a6b21834f4828bfc81908b89"
+  } ]
+}

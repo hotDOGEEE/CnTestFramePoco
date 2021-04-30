@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "ConnectionAbortedError: [WinError 10053] 你的主机中的软件中止了一个已建立的连接。",
+      "children" : [ {
+        "name" : "test_home[case_data0]",
+        "uid" : "be11cc6f56ed4a24",
+        "parentUid" : "f15128fc5420b6a43779e657fef529f2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606294826982,
+          "stop" : 1606294826983,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'id': 'Home_exp1', 'description': '开始游戏超时确认场景检测', 'event_list': ['点击\"大厅\"', '点击\"开始下棋\"', '等待出现\"进入游戏\"', '等待消失\"进入游戏\"'], 'expect': '不显示\"进入游戏\"'}" ]
+      } ],
+      "uid" : "f15128fc5420b6a43779e657fef529f2"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

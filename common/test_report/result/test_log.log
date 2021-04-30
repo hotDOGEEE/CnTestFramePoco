@@ -1,0 +1,14 @@
+2020-11-25 17:00:23,764 [DEBUG]: C:\Users\ly\AppData\Local\Programs\Python\Python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe devices
+2020-11-25 17:00:23,840 [DEBUG]: C:\Users\ly\AppData\Local\Programs\Python\Python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe devices
+2020-11-25 17:00:23,903 [DEBUG]: C:\Users\ly\AppData\Local\Programs\Python\Python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f wait-for-device
+2020-11-25 17:00:23,965 [DEBUG]: C:\Users\ly\AppData\Local\Programs\Python\Python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f shell getprop ro.build.version.sdk
+2020-11-25 17:00:24,101 [DEBUG]: C:\Users\ly\AppData\Local\Programs\Python\Python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f forward --no-rebind tcp:13224 tcp:5001
+2020-11-25 17:00:26,170 [DEBUG]: c:\users\ly\appdata\local\programs\python\python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe devices
+2020-11-25 17:00:26,249 [DEBUG]: c:\users\ly\appdata\local\programs\python\python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe devices
+2020-11-25 17:00:26,326 [DEBUG]: c:\users\ly\appdata\local\programs\python\python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f wait-for-device
+2020-11-25 17:00:26,404 [DEBUG]: c:\users\ly\appdata\local\programs\python\python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f shell getprop ro.build.version.sdk
+2020-11-25 17:00:26,570 [DEBUG]: c:\users\ly\appdata\local\programs\python\python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f forward --no-rebind tcp:16457 tcp:5001
+2020-11-25 17:00:26,663 [DEBUG]: c:\users\ly\appdata\local\programs\python\python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f forward --no-rebind tcp:17353 tcp:5001
+2020-11-25 17:00:27,115 [DEBUG]: c:\users\ly\appdata\local\programs\python\python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f forward --remove tcp:16457
+2020-11-25 17:00:27,137 [DEBUG]: c:\users\ly\appdata\local\programs\python\python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f forward --remove tcp:17353
+2020-11-25 17:00:31,654 [DEBUG]: C:\Users\ly\AppData\Local\Programs\Python\Python37\lib\site-packages\airtest\core\android\static\adb\windows\adb.exe -s 7e92596f forward --remove tcp:13224

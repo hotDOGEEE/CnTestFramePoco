@@ -1,0 +1,11 @@
+[ {
+  "uid" : "be11cc6f56ed4a24",
+  "name" : "test_home[case_data0]",
+  "time" : {
+    "start" : 1606294826982,
+    "stop" : 1606294826983,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
