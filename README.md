@@ -82,7 +82,7 @@ gitlab地址[CnTestFrame](https://gitlab.ilongyuan.cn/lytg/cntestframe)
 | apk路径 |  测试路径 |
 | 连接服务器  | target_ip:3063  |
 | 测试用例模块  |  Home |
-|  测试报告访问地址 |  http://172.16.56.77/jenkins/workplace/workspace/CnTestFrame/report/index.html |
+|  测试报告访问地址 |  之前放在jenkins上的，现在暂未设置远程访问地址 |
 填好对应的配置就可以运行了，apk路径和连接服务器这两个参数用于从装包开始直到进入游戏的流程，如果要从装包开始的话需要填入，否则删除这两项的内容。
 测试模块为你想要测试的选择，填入“Store”或者"Home"他就会执行某一个模块，而如果全都要就填入all。
 报告的访问地址也就按自己的存储路径来了，这里随便写了执行机的一个路径。
